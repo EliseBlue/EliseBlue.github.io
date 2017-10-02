@@ -27,6 +27,11 @@ body {
 ol, ul {
   list-style: none; }
 
+  body {
+    background-image: url("Background1.jpg");
+    background-color: #cccccc;
+}
+
 table {
   border-collapse: collapse;
   border-spacing: 0; }
