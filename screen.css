@@ -14,7 +14,7 @@ time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 130%;
+  font-size: 160%;
   font: inherit;
   vertical-align: baseline; }
 
@@ -41,6 +41,12 @@ h1#header {
   text-align: center;
   }
 
+p#Resume {
+  color: #FF9900;
+  font-family: lucida handwriting;
+  font-size: 16px;
+
+}
 
 ol, ul {
   list-style: none; }
@@ -106,15 +112,16 @@ p#ZombulatorText {
 
 a#ZombieLink {
   position: relative;
-  left: 950px;
+  left: 920px;
   bottom: 1675px;
-  font-family: athelas;
-  font-size: 25px;
+  font-family: lucida handwriting;
+  font-size: 23px;
   color:#D1F2EB;
 }
 
 p#intro {
   margin-right: 420px;
+  font-size: 18px;
 }
 
 
