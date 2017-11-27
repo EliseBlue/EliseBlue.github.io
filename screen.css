@@ -21,8 +21,26 @@ time, mark, audio, video {
 body {
   line-height: 1; }
 
-  h1 {
-  color: #CC6666;}
+h1#header2 {
+  color: #EC7063  ;
+  border: 3px solid grey;
+  border-right-width: 20px;
+  border-left-width: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px; 
+  font-family: athelas; 
+  font-size: 200%; 
+  padding: 20px;
+}
+
+h1#header {
+  color: #E74C3C  ;
+  font-family: hobo std;
+  font-size: 400%;
+  padding: 20px;
+  text-align: center;
+  }
+
 
 ol, ul {
   list-style: none; }
@@ -64,3 +82,29 @@ a {
 
 #main {
   padding: 65px; }
+
+
+img#Zombulator {
+  width: 500px;
+  height: 350px;
+  position: relative;
+  left: 800px;
+  bottom: 1250px;
+  border-style: outset;
+    border-width: 5px;
+    border-color: #1A5276;
+}
+
+p#ZombulatorText {
+  position: relative;
+  left: 850px;
+  bottom: 1675px;
+  font-family: phosphate;
+  font-size: 32px;
+  color: #1A5276;
+}
+
+p#intro {
+  margin-right: 420px;
+}
+
