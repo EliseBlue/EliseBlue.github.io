@@ -48,6 +48,11 @@ p#Resume {
 
 }
 
+p#intro {
+  margin-right: 420px;
+  font-size: 18px;
+}
+
 ol, ul {
   list-style: none; }
 
@@ -113,15 +118,18 @@ p#ZombulatorText {
 a#ZombieLink {
   position: relative;
   left: 920px;
-  bottom: 1675px;
+  bottom: 1695px;
   font-family: lucida handwriting;
   font-size: 23px;
   color:#D1F2EB;
 }
 
-p#intro {
-  margin-right: 420px;
-  font-size: 18px;
+a#GitHub {
+  position: relative;
+  bottom: 200px;
+  font-family: lucida handwriting;
+  font-size: 50px;
+  color: #3300CC;
 }
 
 
