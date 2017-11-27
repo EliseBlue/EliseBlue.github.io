@@ -104,7 +104,17 @@ p#ZombulatorText {
   color: #1A5276;
 }
 
+a#ZombieLink {
+  position: relative;
+  left: 950px;
+  bottom: 1675px;
+  font-family: athelas;
+  font-size: 25px;
+  color:#D1F2EB;
+}
+
 p#intro {
   margin-right: 420px;
 }
+
 
